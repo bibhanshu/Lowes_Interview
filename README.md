@@ -1,6 +1,6 @@
 # Lowes_Interview
 
-We have A business Demand coming from Recruitment Manager, the Capability head and the Marketing and people success team 
+We have A business Demand coming from Recruitment Manager, the Capability head, Marketing and people success team 
 
 The Objective From Recruitment Manager 
 - Create a BI Report/Dashboard to Visualize Team performance as well as individual Recruiter Performance in SDE Team we want to see the number of interviews vs starts per recruiter in a given Quater with shortlisted and rejected candidates per recruiter and also we want the difference in percentage between the top and the bottom individual recruiter shortlisted and rejected candidates
