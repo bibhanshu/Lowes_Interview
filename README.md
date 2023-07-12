@@ -3,7 +3,7 @@
 We have A business Demand coming from Recruitment Manager, the Capability head, Marketing and people success team 
 
 The Objective From Recruitment Manager 
-- Create a BI Report/Dashboard to Visualize Team performance as well as individual Recruiter Performance in SDE Team we want to see the number of interviews vs starts per recruiter in a given Quater with shortlisted and rejected candidates per recruiter and also we want the difference in percentage between the top and the bottom individual recruiter shortlisted and rejected candidates
+- Create a BI Report/Dashboard to Visualize Team performance as well as individual Recruiter Performance in SDE Team we want to see the number of interviews vs starts per recruiter in a given Quater with shortlisted and rejected candidates per recruiter and also we want the difference in percentage between the top and the bottom individual recruiter shortlisted and rejected candidates also which office locations are tagged to the particular starts?
 - We want to see who is the top performer and with how many starts 
 - We also want to see which sourcing tool is giving us starts
 - We want to Analyse and visualize the numbers from various sources (Naukri, Linkedin Etc) as a whole team and also as an individual Recruiter,
